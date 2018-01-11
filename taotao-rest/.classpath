@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/taotao-manager-pojo"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/taotao-resorce"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/activation.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/activemq-all-5.12.1.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/alipay-sdk-java20170615110434.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/aliyun-sdk-oss-2.4.0.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/aspectjweaver-1.6.9.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/commons-chain-1.1.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/commons-codec.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/commons-collections.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/commons-compress-1.2.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/commons-configuration-1.5.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/commons-daemon.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/commons-dbcp.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/commons-digester.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/commons-discovery.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/commons-email-1.2.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/commons-fileupload.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/commons-httpclient.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/commons-io-1.3.2.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/commons-logging-api.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/commons-net-3.3.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/commons-pool.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/commons-pool2-2.0.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/core-3.0.0.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/ehcache-core-2.4.3.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/elasticsearch-2.4.0.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/embedded-redis-0.6.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/httpclient-4.4.1.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/httpcore-4.4.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/ibatis-2.3.4.726.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/jackson-annotations-2.8.5.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/jackson-core-2.8.5.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/jackson-databind-2.8.5.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/javax.mail-1.4.5-rc1.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/jedis-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/jpinyin.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/jxl.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/mail.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/mongo-2.10.1.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/ognl-2.6.11.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/postgresql-9.1-901.jdbc4.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/quartz-all-1.6.0.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/RongCloud.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/rsa.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/slf4j-log4j12-1.6.2.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/spring-aop-4.0.4.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/spring-aspects-4.0.4.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/spring-beans-4.0.4.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/spring-context-4.0.4.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/spring-context-support-4.0.4.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/spring-core-4.0.4.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/spring-data-commons-1.7.2.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/spring-data-commons-core-1.4.1.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/spring-data-jpa-1.5.2.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/spring-data-mongodb-1.4.2.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/spring-data-redis-1.5.2.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/spring-expression-4.0.4.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/spring-mock-2.0.8.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/spring-orm-4.0.4.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/spring-session-1.3.0.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/spring-session-data-redis-1.3.0.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/spring-tx-4.0.4.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/spring-web-4.0.4.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/spring-webmvc-4.0.4.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/spring.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/taobao-sdk-java-auto_1455552377940-20160607.jar"/>
+	<classpathentry kind="lib" path="/taotao-resorce/common-lib/xstream-1.3.1.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/taotao-common"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/taotao-manager-dao"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

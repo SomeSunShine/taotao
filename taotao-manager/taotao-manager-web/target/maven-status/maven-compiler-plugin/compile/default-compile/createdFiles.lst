@@ -1,0 +1,13 @@
+com\taotao\controller\TbOrderItemController.class
+com\taotao\controller\PictureController.class
+com\taotao\controller\TbItemCatController.class
+com\taotao\controller\TbItemParamItemController.class
+com\taotao\controller\PageController.class
+com\taotao\controller\TbItemController.class
+com\taotao\controller\TbItemParamController.class
+com\taotao\controller\TbItemDescController.class
+com\taotao\controller\TbOrderShippingController.class
+com\taotao\controller\TbOrderController.class
+com\taotao\controller\TbUserController.class
+com\taotao\controller\TbContentCategoryController.class
+com\taotao\controller\TbContentController.class
